@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+<div align="center">
+ <h1>Jordan Shoe</h1>
+ <h2>Project Description</h2>
+ <p>Landing page of Jordan shoes</p>
+<p>
+ <a href="#Features">Features</a> •
+ <a href="#Requirements">Requirements</a> • 
+ <a href="#Running the Application">Running the Application</a> • 
+ <a href="#Technologies">Technologies</a> • 
+ <a href="#Author">Author</a>
+</p>
+ <br>
+ <img src="./src/Assets/gif/jordanShopGif.gif" title="Home page Gif" alt="Home page Gif"/>
+</div>
+ 
+### Features
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [x] View the Jordan Shoes
 
-## Available Scripts
+### Requirements
 
-In the project directory, you can run:
+Before you begin, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/)
 
-### `npm start`
+### 🎲 Running the Application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+# Clone this repository
+$ git clone <https://github.com/JoaoVitorSoares10/Jordan-Shoe.git>
+# Access the project folder in the terminal/cmd
+$ cd Jordan-Shoe
+# Install dependencies
+$ npm install
+# Run the application
+$ npm start
+# The server will log in to port:8000 - access <http://localhost:8000>
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 🛠 Technologies
 
-### `npm test`
+The following tools were used in the construction of the project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://pt-br.reactjs.org/)
+- [Styled-components](https://styled-components.com/)
 
-### `npm run build`
+### Author
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>Create by <a href="https://www.linkedin.com/in/joao-vitor-morais-soares-49ba17228/">João Vitor</a></p>
